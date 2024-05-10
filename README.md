@@ -1,4 +1,4 @@
-![Flodd Logo](logo.png)
+![Flodd Logo](https://raw.githubusercontent.com/proadhikary/flodd/main/img/logo.png)
 # Flodd: Unraveling India's Flood Odds
 
 
@@ -16,7 +16,7 @@ Flodd provides a comprehensive analysis of flood events, utilizing a range of vi
 
 ## Screenshots
 
-![Screenshot 1](ss.png)
+![Screenshot 1](https://raw.githubusercontent.com/proadhikary/flodd/main/img/ss.png)
 
 ## Installation
 
