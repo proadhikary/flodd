@@ -1,9 +1,9 @@
 ![Flodd Logo](https://raw.githubusercontent.com/proadhikary/flodd/main/img/logo.png)
-# Flodd: Unraveling India's Flood Odds
+# Floodd: Unraveling India's Flood Odds
 
 
 
-Flodd provides a comprehensive analysis of flood events, utilizing a range of visualizations to explore patterns, trends, and impacts based on geographical data, temporal factors, and causal information. It is designed to aid researchers, policymakers, and the public in understanding the dynamics of floods and facilitating data-driven decision-making in disaster management and mitigation strategies.
+Floodd provides a comprehensive analysis of flood events, utilizing a range of visualizations to explore patterns, trends, and impacts based on geographical data, temporal factors, and causal information. It is designed to aid researchers, policymakers, and the public in understanding the dynamics of floods and facilitating data-driven decision-making in disaster management and mitigation strategies.
 
 ## Features
 
