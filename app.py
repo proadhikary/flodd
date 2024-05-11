@@ -50,6 +50,7 @@ unique_causes = df['Main Cause'].unique()
 selected_causes = st.sidebar.multiselect('Select Main Cause(s)', unique_causes, default=unique_causes)
 df_filtered = df_filtered[df_filtered['Main Cause'].isin(selected_causes)]
 
+st.sidebar.write('Data © HydroSenseLab, IIT Delhi')
 
 st.header("FLODD: Unraveling India's Flood Odds")
 st.write("Flodd provides a comprehensive analysis of flood events, utilizing a range of visualizations to explore patterns, trends, and impacts based on geographical data, temporal factors, and causal information. It is designed to aid researchers, policymakers, and the public in understanding the dynamics of floods and facilitating data-driven decision-making in disaster management and mitigation strategies.")
