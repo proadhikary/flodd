@@ -22,7 +22,7 @@ df = load_data()
 
 
 with st.sidebar:
-  st.image("logo.png", width=300)
+  st.image("./img/logo.png", width=300)
 
 
 
